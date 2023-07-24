@@ -1,0 +1,2 @@
+this is text file which is in static folder
+hisha
